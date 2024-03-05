@@ -1,1 +1,1 @@
-<h3 style="color:red"><a href="diducloud.pro">点击此处进入最新官网地址</a></h3>
+<h3 style="colour:red"><a href="https://diducloud.pro" target="_blank">点击此处进入最新官网地址</a></h3>
